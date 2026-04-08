@@ -6,3 +6,7 @@ WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5000
  * Running on http://172.31.36.206:5000
 Press CTRL+C to quit
+85.217.149.47 - - [08/Apr/2026 03:47:59] code 400, message Bad request version ('À\x14À')
+85.217.149.47 - - [08/Apr/2026 03:47:59] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03.Æùq\x04\x0f\x8e\x82\x9bw\x87¸ä\x8c<m\x03ØY\x1e5÷\x92±a\x9f-ë¬öÉÀ µ\x81Êª(\x03B\x8bì\x0cv«aâIPÛÀVíÚ\x8bÁØ\x82×^ÅÉÊ²æ\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+85.217.149.58 - - [08/Apr/2026 04:07:17] "'GET / HTTP/1.1" 405 -
+85.217.149.62 - - [08/Apr/2026 04:10:44] "GET / HTTP/1.1" 200 -
